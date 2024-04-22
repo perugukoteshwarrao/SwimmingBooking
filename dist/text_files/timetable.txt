@@ -1,0 +1,44 @@
+801,General Water Training,Monday,4-5pm,01-04-2024,4,1,101
+802,Controlled Kicks,Monday,5-6pm,01-04-2024,4,2,103
+803,Turn Arounds,Monday,6-7pm,01-04-2024,4,3,102
+804,Swim-arounds,Wednesday,4-5pm,03-04-2024,4,4,105
+805,Climbing out of the Pool,Wednesday,5-6pm,03-04-2024,4,5,104
+806,Back Floating,Wednesday,6-7pm,03-04-2024,4,1,104
+807,Stroke Techniques,Friday,4-5pm,05-04-2024,4,2,102
+808,Water Safety,Friday,5-6pm,05-04-2024,4,3,104
+809,Skill Development ,Friday,6-7pm,05-04-2024,4,4,103
+810,Swim Basics,Saturday,2-3pm,06-04-2024,4,5,101
+811,Stroke Development,Saturday,3-4pm,06-04-2024,4,2,105
+812,General Water Training,Monday,4-5pm,08-04-2024,4,1,102
+813,Controlled Kicks,Monday,5-6pm,08-04-2024,4,2,101
+814,Turn Arounds,Monday,6-7pm,08-04-2024,4,3,104
+815,Swim-arounds,Wednesday,4-5pm,10-04-2024,4,4,102
+816,Climbing out of the Pool,Wednesday,5-6pm,10-04-2024,4,5,105
+817,Back Floating,Wednesday,6-7pm,10-04-2024,4,1,103
+818,Stroke Techniques,Friday,4-5pm,12-04-2024,4,2,102
+819,Water Safety,Friday,5-6pm,12-04-2024,4,3,105
+820,Skill Development ,Friday,6-7pm,12-04-2024,4,4,104
+821,Swim Basics,Saturday,2-3pm,13-04-2024,4,5,101
+822,Stroke Development,Saturday,3-4pm,13-04-2024,4,2,102
+823,General Water Training,Monday,4-5pm,15-04-2024,4,1,103
+824,Controlled Kicks,Monday,5-6pm,15-04-2024,4,2,105
+825,Turn Arounds,Monday,6-7pm,15-04-2024,4,3,103
+826,Swim-arounds,Wednesday,4-5pm,17-04-2024,4,4,101
+827,Climbing out of the Pool,Wednesday,5-6pm,17-04-2024,4,5,103
+828,Back Floating,Wednesday,6-7pm,17-04-2024,4,1,102
+829,Stroke Techniques,Friday,4-5pm,19-04-2024,4,2,105
+830,Water Safety,Friday,5-6pm,19-04-2024,4,3,104
+831,Skill Development ,Friday,6-7pm,19-04-2024,4,4,101
+832,Swim Basics,Saturday,2-3pm,20-04-2024,4,5,102
+833,Stroke Development,Saturday,3-4pm,20-04-2024,4,2,103
+834,General Water Training,Monday,4-5pm,22-04-2024,4,1,104
+835,Controlled Kicks,Monday,5-6pm,22-04-2024,4,2,105
+836,Turn Arounds,Monday,6-7pm,22-04-2024,4,3,102
+837,Swim-arounds,Wednesday,4-5pm,24-04-2024,4,4,101
+838,Climbing out of the Pool,Wednesday,5-6pm,24-04-2024,4,5,103
+839,Back Floating,Wednesday,6-7pm,24-04-2024,4,1,103
+840,Stroke Techniques,Friday,4-5pm,26-04-2024,4,2,104
+841,Water Safety,Friday,5-6pm,26-04-2024,4,3,105
+842,Skill Development ,Friday,6-7pm,26-04-2024,4,4,101
+843,Swim Basics,Saturday,2-3pm,27-04-2024,4,5,103
+844,Stroke Development,Saturday,3-4pm,27-04-2024,4,2,104
